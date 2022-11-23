@@ -1,5 +1,4 @@
 import requests
-#import json
 
 def getCocktails(ingredients):
     BASE_URL = "http://www.thecocktaildb.com/api/json/v1/"
